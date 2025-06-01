@@ -45,7 +45,6 @@ To address the CEO’s questions
 - 2 visualizations highlighted the difference between the customer `ratings` for Lapdog devices vs. Lapcat devices in adition to the number of rates.
 
 
-![Waggle Report Tab 1](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab1.jfif)
 
 ___
 
@@ -55,7 +54,6 @@ To drive insights from the `pets` dataset, the second tab included:
 - 2 visualiza`tion that highlighted both `gender` and `age` distributions along the dataset with `pet type` as hue. 
 
 
-![Waggle Report Tab 2](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab2.jfif)
 
 ___
 
@@ -65,7 +63,5 @@ To drive insights from the `family` dataset, the third tab included:
 - A card that shows the count of total pets on the dataset, and has 2 bookmark buttons to show only cat or dog counts.
 - A visualization that shows the relation between `house hold income` and `number of owned pets` along the dataset with `pet type` as hue. 
 
-
-![Waggle Report Tab 3](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab3.jfif)
 
 ___
